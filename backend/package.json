@@ -1,0 +1,19 @@
+{
+  "name": "18_11_2021",
+  "version": "1.0.0",
+  "description": "Programa de Aprendizado",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diogo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.14",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
+}
